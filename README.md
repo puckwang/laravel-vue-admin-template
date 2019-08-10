@@ -7,6 +7,7 @@ npm run watch
 ```
 
 ## Feature
+- [x] Laravel 6.0
 - [x] Admin LTE 3
 - [x] Vue 2
 - [x] Vuex
