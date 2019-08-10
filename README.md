@@ -1,5 +1,11 @@
 # laravel vue admin template
 
+## Run project
+```bash
+php artisan serve
+npm run watch
+```
+
 ## Feature
 - [x] Admin LTE 3
 - [x] Vue 2
